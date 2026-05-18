@@ -2,6 +2,7 @@
 ***this project is where the idea of "need of reducing social noise" came from and is also a project that influenced the more successful project: The Media Tranquilzer that went to become a global invitational finalist project at PennApps XXVI***
 
 ***the video showing the application in use can be found at https://www.youtube.com/watch?v=cLKaaCQnIgA***
+***DevPost for project can be found at https://devpost.com/software/bridge-ai***
 
 Bridging Cultural and Linguistic Context in a Globalized World.
 
