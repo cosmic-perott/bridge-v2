@@ -1,4 +1,7 @@
 # Bridge AI
+***this project is where the idea of "need of reducing social noise" came from and is also a project that influenced the more successful project: The Media Tranquilzer that went to become a global invitational finalist project at PennApps XXVI***
+
+### the video showing the application in use can be found at https://www.youtube.com/watch?v=cLKaaCQnIgA
 Bridging Cultural and Linguistic Context in a Globalized World.
 
 Bridge AI is an intelligent multimedia translation and contextualization web application designed to help international students, immigrants, and cross-cultural communities navigate foreign digital media. Unlike standard, literal subtitles that miss local nuances, Bridge AI extracts audio, generates hyper-accurate local transcriptions, and utilizes an LLM backend to decode region-specific idioms, slang, and cultural contexts.
@@ -61,3 +64,5 @@ Abstracting the UI: Porting the core logic out of a standalone webpage and into 
 Decoupling the Architecture: Migrating the pipeline to a dedicated Node.js middleware server to handle the Python machine learning subprocesses independently, ensuring an ultra-stable, non-blocking UI.
 
 LLM Evaluation: Benchmarking and implementing multi-model logic (such as OpenAI's GPT models) to compare translation nuances and accuracy profiles.
+
+***all code, algorithm, architecture made by cosmic-perott and renvitz for MLH Data HackFest 2025***
