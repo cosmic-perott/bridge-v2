@@ -1,7 +1,7 @@
 # Bridge AI
 ***this project is where the idea of "need of reducing social noise" came from and is also a project that influenced the more successful project: The Media Tranquilzer that went to become a global invitational finalist project at PennApps XXVI***
 
-### the video showing the application in use can be found at https://www.youtube.com/watch?v=cLKaaCQnIgA
+***the video showing the application in use can be found at https://www.youtube.com/watch?v=cLKaaCQnIgA***
 Bridging Cultural and Linguistic Context in a Globalized World.
 
 Bridge AI is an intelligent multimedia translation and contextualization web application designed to help international students, immigrants, and cross-cultural communities navigate foreign digital media. Unlike standard, literal subtitles that miss local nuances, Bridge AI extracts audio, generates hyper-accurate local transcriptions, and utilizes an LLM backend to decode region-specific idioms, slang, and cultural contexts.
