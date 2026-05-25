@@ -1,4 +1,11 @@
 # Bridge AI
+
+###
+<img width="677" height="90" alt="Screenshot 2026-05-25 at 8 55 54 PM" src="https://github.com/user-attachments/assets/a203a742-facb-489f-9b78-29d1d2b6efdf" />
+
+***all code, algorithm, architecture made by cosmic-perott and renvitz for MLH Data HackFest 2025***
+
+
 ***this project is where the idea of "need of reducing social noise" came from and is also a project that influenced the more successful project: The Media Tranquilzer that went to become a global invitational finalist project at PennApps XXVI***
 
 ***the video showing the application in use can be found at https://www.youtube.com/watch?v=cLKaaCQnIgA***
@@ -67,5 +74,3 @@ Abstracting the UI: Porting the core logic out of a standalone webpage and into 
 Decoupling the Architecture: Migrating the pipeline to a dedicated Node.js middleware server to handle the Python machine learning subprocesses independently, ensuring an ultra-stable, non-blocking UI.
 
 LLM Evaluation: Benchmarking and implementing multi-model logic (such as OpenAI's GPT models) to compare translation nuances and accuracy profiles.
-
-***all code, algorithm, architecture made by cosmic-perott and renvitz for MLH Data HackFest 2025***
