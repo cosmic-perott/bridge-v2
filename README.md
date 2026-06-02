@@ -14,7 +14,7 @@
 
 ***DevPost for project can be found at https://devpost.com/software/bridge-ai***
 
-Bridging Cultural and Linguistic Context in a Globalized World.
+### Bridging Cultural and Linguistic Context in a Globalized World
 
 Bridge AI is an intelligent multimedia translation and contextualization web application designed to help international students, immigrants, and cross-cultural communities navigate foreign digital media. Unlike standard, literal subtitles that miss local nuances, Bridge AI extracts audio, generates hyper-accurate local transcriptions, and utilizes an LLM backend to decode region-specific idioms, slang, and cultural contexts.
 
